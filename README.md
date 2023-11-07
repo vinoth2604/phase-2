@@ -1,0 +1,5 @@
+# CAD_Projects
+Some Cloud Application Development Projects are there...
+To upload a video, you need to register an account and log in. Then, you can click on the “Upload” button on the navigation bar and fill in the details of your video, such as title, description, category, and tags. You can also choose whether to make your video public or private. After uploading your video, you will see a confirmation message and a link to view your video.
+To watch a video, you can browse the homepage or search for videos by keywords or categories. You can also view your own videos or videos from other users by clicking on their usernames. You can watch the video in full screen mode, adjust the volume and playback speed, and enable subtitles if available. You can also like, dislike, comment, share, or add the video to your playlist.
+To manage your account and profile, you can click on the “Profile” button on the navigation bar. You can edit your username, email, password, avatar, bio, and social media links. You can also view your uploaded videos, liked videos, playlists, followers, and following.
